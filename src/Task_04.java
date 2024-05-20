@@ -32,7 +32,7 @@ public class Task_04 {
                 System.out.print(" ");
             }
             for (int k = 0; k <= i; k++) {
-                if (k == 0  k == i) {
+                if (k == 0;  k == i) {
                     System.out.print("* ");
                 } else {
                     System.out.print("  ");
@@ -45,7 +45,7 @@ public class Task_04 {
                 System.out.print(" ");
             }
             for (int k = 0; k <= i; k++) {
-                if (k == 0  k == i) {
+                if (k == 0;  k == i) {
                     System.out.print("* ");
                 } else {
                     System.out.print("  ");
